@@ -124,7 +124,7 @@ Checks (m1 = m2 = L1 = L2 = g = 1)
   Poincare sections: max energy drift over t = 1500 is 2.0e-05
 ```
 
-- **Normal modes.** For small oscillations the exact frequencies are $\omega^2 = (2 \mp \sqrt2)\,g/L$.
+- **Normal modes.** For small oscillations the exact frequencies are $\omega^2 = (2 \mp \sqrt2) g/L$.
   The simulated periods match them.
 - **Energy.** Conserved by RK4 on every run reported above.
 - **Forbidden region.** No simulated pendulum flips where the energy argument says it cannot.
